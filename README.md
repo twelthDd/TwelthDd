@@ -1,4 +1,32 @@
-### Hi there 👋
+# Hi there, I'm twelthDd👋
+ 
+## 💻 Technologies I'm fimiliar with
+
+- Python
+- Html
+- Css
+
+## 🌱 I’m currently learning 
+
+- more python
+- javascript
+- tailwind css
+- lab view (Robotics)
+
+
+
+## 🔭 I’m currently working on 
+
+- Only personal/learning projects right now
+
+## 📫 How to reach me:
+
+You can reach me on:
+- Discord: twelthDd
+
+![twelthDd's github stats](https://github-readme-stats.vercel.app/api?username=twelthDd&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twelthDd)](https://github.com/TwelthDd/TwelthDd)
 
 <!--
 **twelthDd/TwelthDd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
