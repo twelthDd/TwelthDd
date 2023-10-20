@@ -1,6 +1,6 @@
 # Hi there, I'm twelthDd👋
  
-## 💻 Technologies I'm fimiliar with
+## 💻 Technologies I'm familiar with
 
 - Python
 - Html
@@ -10,7 +10,7 @@
 
 - more python
 - javascript
-- tailwind css
+- bootstrap css
 - lab view (Robotics)
 
 
