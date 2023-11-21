@@ -10,13 +10,14 @@
 
 - more python
 - javascript
-- bootstrap css
+- tailwind css
 - lab view (Robotics)
 
 
 
 ## 🔭 I’m currently working on 
 
+- robot for the 9076 Villaciraptors FRC Robotics team
 - Only personal/learning projects right now
 
 ## 📫 How to reach me:
