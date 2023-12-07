@@ -10,6 +10,7 @@
 
 - more python
 - javascript
+- react js
 - tailwind css
 - lab view (Robotics)
 
