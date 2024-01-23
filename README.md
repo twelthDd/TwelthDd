@@ -10,6 +10,7 @@
 
 - more python
 - javascript
+- java
 - react js
 - tailwind css
 - lab view (Robotics)
@@ -18,7 +19,7 @@
 
 ## 🔭 I’m currently working on 
 
-- robot for the 9076 Villaciraptors FRC Robotics team
+- robot programing for the 9076 Villaciraptors FRC Robotics team
 - personal/learning projects
 
 ## 📫 How to reach me:
