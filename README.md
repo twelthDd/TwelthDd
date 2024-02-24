@@ -19,7 +19,7 @@
 
 ## 🔭 I’m currently working on 
 
-- robot programing for the 9076 Villaciraptors FRC Robotics team
+- robot programing for @villamariarobotics FRC Robotics team
 - personal/learning projects
 
 ## 📫 How to reach me:
