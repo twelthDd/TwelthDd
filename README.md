@@ -1,5 +1,4 @@
 <h1 align="center">Hello There! I'm TwelthDd! 👋</h1>
-##
 
 <h2 align="left">👩‍💻  About Me</h2>
 
