@@ -2,7 +2,7 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-<p align="left">🏫 High school student <br><br>💻 Programmer for FRC team 9076<br> <p>🕹️ Videogame Enjoyer</p>
+<p align="left">🏫 High school student <br><br>💻 Programing Team Lead for FTC 26107 (Previously for FRC team 9076 (RIP) )<br> <p>🕹️ Videogame Enjoyer</p>
  
 ## 💻 Technologies I'm familiar with
 <div align="left">
