@@ -9,13 +9,18 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"  />
+ <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original-wordmark.svg" height="40" alt="Html5 logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original-wordmark.svg" height="40" alt=" Css3 logo"  />
   <img width="12" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"  />
-      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="React logo">
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="Javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" height="40" alt="React logo">
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="git logo"  />
   <img width="12" />
