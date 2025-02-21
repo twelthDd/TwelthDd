@@ -22,23 +22,21 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
 
 ## 🌱 I’m currently learning 
 
-- more python
-- javascript
+- swift
 - java
-- react js
-- tailwind css
-- lab view (Robotics)
-
+- more python
+- docker
+- and more!
 
 
 ## 🔭 I’m currently working on 
 
-- robot programing for @villamariarobotics FRC Robotics team
+- robot programing for @villamariarobotics ftc Robotics team (26107)
 - personal/learning projects
 
 ## 📫 How to reach me:
