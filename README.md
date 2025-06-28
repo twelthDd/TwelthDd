@@ -38,7 +38,14 @@
 You can reach me at:
 - Discord: twelthDd
 
-![twelthDd's github stats](https://github-readme-stats.vercel.app/api?username=twelthDd&show_icons=true&theme=radical)
+<h3 align="left">🔥   My Stats :</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twelthDd&show_icons=true&theme=radical)](https://github.com/TwelthDd/TwelthDd)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=twelthdd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=twelthdd&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=github_dark&exclude_repo=gold872.github.io&hide_border=true&order=2&size_weight=0.5&count_weight=0.5" height="200" alt="languages graph"  />
+</div>
+
+###
 
