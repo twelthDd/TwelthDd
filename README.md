@@ -5,14 +5,23 @@
 <p align="left">🏫 High school student <br><br>💻 Programming Team Lead for FTC 26107 (Previously for FRC team 9076 (RIP) )<br> <p>🕹️ Videogame Enjoyer</p>
  
 ## 💻 Technologies I'm familiar with
-<div align="left" style="max-width: 600px;">
+<div align="left" style="max-width: 750px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="56" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="56" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="56" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="56" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="56" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="56" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="56" style="margin-right: 16px;" />
 </div>
+
+
+
 
 
 ## 🔭 I’m currently working on 
