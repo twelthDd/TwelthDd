@@ -25,10 +25,9 @@
 
 ## 🔭 I’m currently working on 
 
-- Robot programming for @villamariarobotics ftc Robotics team (26107)
-- personal/learning projects
-- LockDex Web App
-
+- Robot programming for ftc Robotics team 26107)
+- LockDex.dev Web App
+- Personal Projects
 ## 📫 How to reach me:
 
 You can reach me at:
