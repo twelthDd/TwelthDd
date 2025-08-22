@@ -25,9 +25,10 @@
 
 ## 🔭 I’m currently working on 
 
-- Robot programming for ftc Robotics team 26107)
+- Robot programming for ftc Robotics team 26107
 - LockDex.dev Web App
 - Personal Projects
+- 
 ## 📫 How to reach me:
 
 You can reach me at:
